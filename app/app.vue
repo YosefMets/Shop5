@@ -2,9 +2,13 @@
 useSeoMeta({
   title: 'NuxtHub Starter',
   description: 'A Nuxt template to build your full-stack application on the edge.'
-})
+});
+
+const { db, currency, activeGroup } = storeToRefs( useAppStore() );
 </script>
 
 <template>
-  <NuxtPage />
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>

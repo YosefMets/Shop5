@@ -1,0 +1,324 @@
+{
+  "countries": {
+    "ae": {
+      "ISO": "ae",
+      "C": "aed",
+      "S": "eu"
+    },
+    "al": {
+      "ISO": "al",
+      "C": "all",
+      "S": "eu"
+    },
+    "ar": {
+      "ISO": "ar",
+      "C": "ars",
+      "S": "eu",
+      "M": 50
+    },
+    "at": {
+      "ISO": "at",
+      "C": "eur",
+      "S": "eu",
+      "M": 1
+    },
+    "au": {
+      "ISO": "au",
+      "C": "aud",
+      "S": "eu",
+      "M": 30
+    },
+    "az": {
+      "ISO": "az",
+      "C": "azn",
+      "S": "eu"
+    },
+    "ba": {
+      "ISO": "ba",
+      "C": "bam",
+      "S": "eu"
+    },
+    "be": {
+      "ISO": "be",
+      "C": "eur",
+      "S": "eu"
+    },
+    "bg": {
+      "ISO": "bg",
+      "C": "bgn",
+      "S": "eu"
+    },
+    "br": {
+      "ISO": "br",
+      "C": "brl",
+      "S": "eu",
+      "M": 20
+    },
+    "ca": {
+      "ISO": "ca",
+      "C": "cad",
+      "S": "eu",
+      "M": 70
+    },
+    "ch": {
+      "ISO": "ch",
+      "C": "chf",
+      "S": "eu"
+    },
+    "cl": {
+      "ISO": "cl",
+      "C": "clp",
+      "S": "eu"
+    },
+    "cn": {
+      "ISO": "cn",
+      "C": "cny",
+      "S": "eu"
+    },
+    "cy": {
+      "ISO": "cy",
+      "C": "eur",
+      "S": "eu"
+    },
+    "cz": {
+      "ISO": "cz",
+      "C": "czk",
+      "S": "eu"
+    },
+    "de": {
+      "ISO": "de",
+      "C": "eur",
+      "S": "eu",
+      "M": 40
+    },
+    "dk": {
+      "ISO": "dk",
+      "C": "dkk",
+      "S": "eu"
+    },
+    "ee": {
+      "ISO": "ee",
+      "C": "eur",
+      "S": "eu"
+    },
+    "es": {
+      "ISO": "es",
+      "C": "eur",
+      "S": "eu"
+    },
+    "fi": {
+      "ISO": "fi",
+      "C": "eur",
+      "S": "eu"
+    },
+    "fr": {
+      "ISO": "fr",
+      "C": "eur",
+      "S": "eu",
+      "M": 80
+    },
+    "gb": {
+      "ISO": "gb",
+      "C": "gbp",
+      "S": "eu",
+      "M": 60
+    },
+    "ge": {
+      "ISO": "ge",
+      "C": "gel",
+      "S": "eu"
+    },
+    "gr": {
+      "ISO": "gr",
+      "C": "eur",
+      "S": "eu"
+    },
+    "hk": {
+      "ISO": "hk",
+      "C": "hkd",
+      "S": "eu"
+    },
+    "hr": {
+      "ISO": "hr",
+      "C": "hrk",
+      "S": "eu"
+    },
+    "hu": {
+      "ISO": "hu",
+      "C": "huf",
+      "S": "eu"
+    },
+    "ie": {
+      "ISO": "ie",
+      "C": "eur",
+      "S": "eu"
+    },
+    "il": {
+      "ISO": "il",
+      "C": "ils",
+      "S": "eu",
+      "M": 100
+    },
+    "in": {
+      "ISO": "in",
+      "C": "inr",
+      "S": "eu"
+    },
+    "is": {
+      "ISO": "is",
+      "C": "isk",
+      "S": "eu"
+    },
+    "it": {
+      "ISO": "it",
+      "C": "eur",
+      "S": "eu"
+    },
+    "jp": {
+      "ISO": "jp",
+      "C": "jpy",
+      "S": "eu"
+    },
+    "kr": {
+      "ISO": "kr",
+      "C": "krw",
+      "S": "eu"
+    },
+    "kz": {
+      "ISO": "kz",
+      "C": "kzt",
+      "S": "eu"
+    },
+    "li": {
+      "ISO": "li",
+      "C": "chf",
+      "S": "eu"
+    },
+    "lt": {
+      "ISO": "lt",
+      "C": "eur",
+      "S": "eu"
+    },
+    "lu": {
+      "ISO": "lu",
+      "C": "eur",
+      "S": "eu"
+    },
+    "lv": {
+      "ISO": "lv",
+      "C": "eur",
+      "S": "eu"
+    },
+    "mc": {
+      "ISO": "mc",
+      "C": "eur",
+      "S": "eu"
+    },
+    "md": {
+      "ISO": "md",
+      "C": "mdl",
+      "S": "eu"
+    },
+    "me": {
+      "ISO": "me",
+      "C": "eur",
+      "S": "eu"
+    },
+    "mk": {
+      "ISO": "mk",
+      "C": "mkd",
+      "S": "eu"
+    },
+    "mx": {
+      "ISO": "mx",
+      "C": "mxn",
+      "S": "eu"
+    },
+    "nl": {
+      "ISO": "nl",
+      "C": "eur",
+      "S": "eu"
+    },
+    "no": {
+      "ISO": "no",
+      "C": "nok",
+      "S": "eu"
+    },
+    "nz": {
+      "ISO": "nz",
+      "C": "nzd",
+      "S": "eu"
+    },
+    "pl": {
+      "ISO": "pl",
+      "C": "pln",
+      "S": "eu"
+    },
+    "pt": {
+      "ISO": "pt",
+      "C": "eur",
+      "S": "eu"
+    },
+    "ro": {
+      "ISO": "ro",
+      "C": "ron",
+      "S": "eu"
+    },
+    "rs": {
+      "ISO": "rs",
+      "C": "rsd",
+      "S": "eu"
+    },
+    "se": {
+      "ISO": "se",
+      "C": "sek",
+      "S": "eu"
+    },
+    "sg": {
+      "ISO": "sg",
+      "C": "sgd",
+      "S": "eu"
+    },
+    "si": {
+      "ISO": "si",
+      "C": "eur",
+      "S": "eu"
+    },
+    "sk": {
+      "ISO": "sk",
+      "C": "eur",
+      "S": "eu"
+    },
+    "tr": {
+      "ISO": "tr",
+      "C": "try",
+      "S": "eu"
+    },
+    "ua": {
+      "ISO": "ua",
+      "C": "uah",
+      "S": "eu",
+      "M": 1
+    },
+    "us": {
+      "ISO": "us",
+      "C": "usd",
+      "S": "eu",
+      "M": 90
+    }
+  },
+  "currencies": {
+    "ils": {
+      "S": "₪",
+      "ISO": "ils"
+    },
+    "eur": {
+      "S": "€",
+      "ISO": "eur"
+    },
+    "usd": {
+      "S": "$",
+      "ISO": "usd"
+    }
+  }
+}
